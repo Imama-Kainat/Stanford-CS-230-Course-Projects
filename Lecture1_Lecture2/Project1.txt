@@ -1,0 +1,5 @@
+The official Fall 2025 Lecture 2 includes:
+- Trigger-word detection
+- Face verification
+- Image embeddings
+- Multimodal embeddings
